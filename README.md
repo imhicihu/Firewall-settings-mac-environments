@@ -1,6 +1,5 @@
 ![stability-workinprogress](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
 ![internaluse-green](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
-![issues-closed](https://img.shields.io/badge/issues-closed-green.svg)
 ![issues-open](https://img.shields.io/badge/issues-open-green.svg)
 
 # RATIONALE #
@@ -11,7 +10,7 @@
 ### What is this repository for? ###
 
 * Quick summary
-    - 
+    - Blacklisting/whitelisting HTTP/HTTPS requests
 * Version 1.01
 
 ### How do I get set up? ###
@@ -23,7 +22,7 @@
 	- [LuLu](https://objective-see.com/products/lulu.html): open-source firewall for macOS
 	- [Hands Off!](https://www.oneperiodic.com/products/handsoff/): payware firewall for macOS
 	- [LittleSnitch](https://www.obdev.at/products/littlesnitch/index.html): payware firewall for macOS
-	- or for a detailed method/instructions vide `colophon.md`
+	- or for a detailed method/instructions vide [`colophon.md`](https://bitbucket.org/imhicihu/firewall-settings-on-mac-environments-internal-use/src/master/colophon.md)
 * Dependencies
     - There is no NPM, Gulp or Brew implied
 * How to run tests
