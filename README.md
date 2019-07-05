@@ -10,7 +10,7 @@
 ### What is this repository for? ###
 
 * Quick summary
-    - Blacklisting/whitelisting HTTP/HTTPS requests
+    - Blacklisting/whitelisting HTTP/HTTPS requests across proxy server(s)
 * Version 1.01
 
 ### How do I get set up? ###
