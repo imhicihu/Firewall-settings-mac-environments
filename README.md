@@ -26,7 +26,7 @@
 * Dependencies
     - There is no NPM, Gulp or Brew implied
 * How to run tests
-    - See `checklist.md`
+    - See [`procedure.md`](https://bitbucket.org/imhicihu/firewall-settings-on-mac-environments-internal-use/src/master/Procedure.md)
 * Deployment instructions
     - Follow the instructions from every firewall to accept/denied connections
 
