@@ -5,7 +5,7 @@
 # RATIONALE #
 
 * This repository collect (a kind of quick list) all the settings and processes running and executing diverse functions inside the MacOSX environment with a focus in security and avoiding leaking, breaching personal data through our proxy server.
-* Itself, this repository is related with this other [repo](https://bitbucket.org/imhicihu/conference/src/master/)
+* Itself, this repository is related with this other [repo](https://bitbucket.org/imhicihu/conferences/src/master/)
 * This repo is a living document that will grow and adapt over time
 
 ### What is this repository for? ###
