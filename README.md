@@ -30,6 +30,11 @@
     - See [`procedure.md`](https://bitbucket.org/imhicihu/firewall-settings-on-mac-environments-internal-use/src/master/Procedure.md)
 * Deployment instructions
     - Follow the instructions from every firewall to accept/deny connections
+    
+### Related repositories ###
+
+* Some repositories linked with this project:
+     - There is no related repository (up to now)
 
 ### Source ###
 
