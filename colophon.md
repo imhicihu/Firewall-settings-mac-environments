@@ -9,17 +9,6 @@
      - ![gas.jpg](https://bitbucket.org/repo/ey5E4z8/images/3211466848-29949_1562170074_scr.jpg)
      - [Proxyman](https://github.com/ProxymanApp/Proxyman): HTTP Debugging Proxy app, which is capable of proxying and intercepts the HTTP/HTTPS requests
      - ![proxyman.png](https://bitbucket.org/repo/ey5E4z8/images/1319580239-proxyman_1.3.2_darkmode.png)
-* Online tools
-     - 
-     - 
-     - 
-     - 
-     
-* Documentation
-     - 
-     - 
-     - 
-     - 
      
 ## Legal ##
 
