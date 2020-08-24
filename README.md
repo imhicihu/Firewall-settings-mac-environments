@@ -7,7 +7,7 @@
 * This repository collect (a kind of quick list) all the settings and processes running and executing diverse functions inside the MacOSX environment with a focus in security and avoiding leaking, breaching personal data through our proxy server.
 * Itself, this repository is related with this other [repo](https://bitbucket.org/imhicihu/conferences/src/master/)
 * This repo is a living document that will grow and adapt over time
-* ![waldoinfo.png](https://bitbucket.org/repo/ey5E4z8/images/3410292979-waldoinfo.png)
+![waldoinfo.png](https://bitbucket.org/repo/ey5E4z8/images/3410292979-waldoinfo.png)
 
 ### What is this repository for? ###
 
@@ -20,7 +20,7 @@
 * Summary of set up
     - a personal computer running MacOSX operating system. That's includes a [hackintosh](https://en.wikipedia.org/wiki/Hackintosh) too!
 * Configuration
-    - macosx operating system
+    - [macOSX operating system](https://en.wikipedia.org/wiki/Macintosh_operating_systems)
 	- [LuLu](https://objective-see.com/products/lulu.html): open-source firewall for macOS
 	- [Hands Off!](https://www.oneperiodic.com/products/handsoff/): payware firewall for macOS
 	- [LittleSnitch](https://www.obdev.at/products/littlesnitch/index.html): payware firewall for macOS
