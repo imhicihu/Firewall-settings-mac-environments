@@ -1,4 +1,4 @@
-## Technical requeriments ##
+## Technical requirements ##
 
 * Hardware
      - any mac with a OSX operating system. In some ways, that's includes too a [hackintosh](https://en.wikipedia.org/wiki/Hackintosh)
