@@ -28,7 +28,7 @@
 * How to run tests
     - See [`procedure.md`](Procedure.md)
 * Deployment instructions
-    - Follow the [instructions](Procedure.md)) from every firewall to accept/deny connections
+    - Follow the [instructions](Procedure.md) from every firewall to accept/deny connections
 
 ### Who do I talk to? ###
 
