@@ -22,7 +22,7 @@
 	- [LuLu](https://objective-see.com/products/lulu.html): open-source firewall for macOS
 	- [Hands Off!](https://www.oneperiodic.com/products/handsoff/): pay-ware firewall for macOS
 	- [LittleSnitch](https://www.obdev.at/products/littlesnitch/index.html): pay-ware firewall for macOS
-	- or for a detailed method/instructions vide [`colophon.md`](colophon.md)
+	- or for a detailed method/instructions _vide_ [`colophon.md`](colophon.md)
 * Dependencies
     - There is no NPM, Gulp or Brew implied
 * How to run tests
