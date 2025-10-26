@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/LzyQ9rDcR8yHuYwCev0f-A.jpeg?raw=true" alt="Logotipo de Firewall-settings-mac-environments"/>
+</p>
+
 ![status-archived](images/3278295154-status_archived.png)
 ![internaluse-green](images/3847436881-internal_use_stable.png)
 ![issues-closed](images/1555006384-issues_closed.png)
